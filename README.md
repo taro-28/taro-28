@@ -2,7 +2,7 @@
   <a href="https://github.com/taro-28/taro-28/">
     <img src="https://komarev.com/ghpvc/?username=taro-28" alt="taro-28" />
   </a>
-  <a href="http://twitter.com/taro-28">
+  <a href="http://twitter.com/taroro_tarotaro">
     <img height="20" src="https://img.shields.io/twitter/follow/taroro_tarotaro?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
