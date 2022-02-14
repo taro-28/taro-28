@@ -7,9 +7,9 @@
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taro-28&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=taro-28&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro-28&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taro-28&theme=dracula&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=taro-28&count_private=true&show_icons=true&theme=dracula&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro-28&layout=compact&theme=dracula&count_private=true)
 
 [![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
