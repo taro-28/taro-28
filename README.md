@@ -8,7 +8,7 @@
 [![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/taro-28/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/taro-28/github-profile-summary-cards)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Experiences:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
