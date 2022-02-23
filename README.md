@@ -44,7 +44,7 @@
 
 <h3>Personal Development</h3>
 <h4>Blog</h4>
-<a href="https://taro28.com/" target="_blank" rel="noreferrer">taro28.com</a>
+<a href="https://taro28.com/" target="_blank" rel="noreferrer">taro-28 Blog</a>
 <p>React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form</p>
 
 <h4>Long-Term Investment Simulator</h4>
