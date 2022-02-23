@@ -49,10 +49,8 @@
 </p>
 
 <h3>Personal Development</h3>
-<h4>Blog</h4>
 <a href="https://taro28.com/" target="_blank" rel="noreferrer">taro-28 Blog</a>
 <p>React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form</p>
 
-<h4>Long-Term Investment Simulator</h4>
-<a href="https://taro-28.github.io/Tousimu/index.html" target="_blank" rel="noreferrer">Tousimu</a>
+<a href="https://taro-28.github.io/Tousimu/index.html" target="_blank" rel="noreferrer">Tousimu</a> : Long-Term Investment Simulator
 <p>JavaScript, jQuery, Chart.js, Bootstrap</p>
