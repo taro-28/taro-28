@@ -19,6 +19,12 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://react-hook-form.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="react-hook-form" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="mui" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a>
