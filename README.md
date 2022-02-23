@@ -1,12 +1,15 @@
+<p align="left"> 
+  <a href="https://github.com/taro-28/taro-28/">
+    <img src="https://komarev.com/ghpvc/?username=taro-28" alt="taro-28" />
+  </a>
+  <a href="http://twitter.com/taroro_tarotaro">
+    <img height="20" src="https://img.shields.io/twitter/follow/taroro_tarotaro?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taro-28&theme=dracula&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=taro-28&count_private=true&show_icons=true&theme=dracula&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro-28&layout=compact&theme=dracula&count_private=true)
-
-[![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/taro-28/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/taro-28/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/taro-28/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/taro-28/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/taro-28/taro-28/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/taro-28/github-profile-summary-cards)
 
 <h3 align="left">Experiences</h3>
 <p align="left">
@@ -39,11 +42,8 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/taro-28/taro-28/">
-    <img src="https://komarev.com/ghpvc/?username=taro-28" alt="taro-28" />
-  </a>
-  <a href="http://twitter.com/taroro_tarotaro">
-    <img height="20" src="https://img.shields.io/twitter/follow/taroro_tarotaro?label=Twitter&logo=twitter&style=flat" />
-  </a>
-</p>
+<h3>自作したブログ</h3>
+<a href="https://taro28.com/" target="_blank" rel="noreferrer">
+	taro28.com
+</a>
+React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form
