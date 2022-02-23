@@ -42,8 +42,7 @@
   </a>
 </p>
 
-<h3>自作したブログ</h3>
-<a href="https://taro28.com/" target="_blank" rel="noreferrer">
-	taro28.com
-</a>
+<h3>Personal Development</h3>
+<h4>Blog</h4>
+<a href="https://taro28.com/" target="_blank" rel="noreferrer">taro28.com</a>
 <p>React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form</p>
