@@ -46,4 +46,4 @@
 <a href="https://taro28.com/" target="_blank" rel="noreferrer">
 	taro28.com
 </a>
-React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form
+<p>React, TypeScript, Amplify, S3, GraphQL, material-ui, react-hook-form</p>
