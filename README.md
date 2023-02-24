@@ -50,3 +50,7 @@
 <a href="https://taro-28.github.io/Tousimu/index.html" target="_blank" rel="noreferrer">Tousimu: Long-Term Investment Simulator</a>
 <br />
 JavaScript, jQuery, Chart.js, Bootstrap
+
+<a href="https://chrome.google.com/webstore/detail/quick-tweet-search/hdkkckfalkjiojdncobdbapmfecmlnbi" target="_blank" rel="noreferrer">Quick Tweet Search: Chrome Extension to quickly search Tweet by Twitter user</a>
+<br /
+React, TypeScript
