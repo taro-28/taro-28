@@ -1,0 +1,23 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: "taro"
+          LANG: "en"
+          CARD_WIDTH: "400"
+          IS_CENTER: "true"
+          UPDATE_TIME: "true"
+          README_FILE: "README.md"
