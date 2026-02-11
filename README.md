@@ -3,6 +3,8 @@
 </a>
 
 <!--START_SECTION:lapras-card-->
+<p align="center"><a href="https://lapras.com/public/taro" target="_blank" rel="noopener noreferrer"><img alt="taro's scores on LAPRAS are as follows: Engineering: 4.15 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.64 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.15&b=3.43&i=3.64&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 2/11/2026, 2:00:11 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taro-28&theme=dracula&count_private=true)
